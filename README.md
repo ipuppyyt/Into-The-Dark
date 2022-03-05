@@ -1,9 +1,7 @@
 # Into The Dark
 
-
-<!---[![](https://i.imgur.com/FtKWFCq.png)](http://afreetestdomain.ml/)-->
-
-## Live Preview Will Be Available After Release
+## Click below to see live preview of the website
+[![](https://i.imgur.com/FtKWFCq.png)](https://ipuppyyt.github.io/Into-The-Dark/)
 
 **Screenshots - Not of the full website (only key elements)**
 
