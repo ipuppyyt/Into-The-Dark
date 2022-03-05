@@ -3,6 +3,9 @@
 ## Click below to see live preview of the website
 [![](https://i.imgur.com/FtKWFCq.png)](https://ipuppyyt.github.io/Into-The-Dark/)
 
+## Deploy to Repl.it
+[![Run on Repl.it](https://replit.com/badge/github/ipuppyyt/Into-The-Dark)](https://replit.com/github/ipuppyyt/Into-The-Dark)
+
 **Screenshots - Not of the full website (only key elements)**
 
 
